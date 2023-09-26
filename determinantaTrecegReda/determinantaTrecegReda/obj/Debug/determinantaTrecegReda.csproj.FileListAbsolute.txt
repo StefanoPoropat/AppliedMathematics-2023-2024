@@ -1,0 +1,10 @@
+C:\Users\Stefano\source\repos\determinantaTrecegReda\determinantaTrecegReda\bin\Debug\determinantaTrecegReda.exe.config
+C:\Users\Stefano\source\repos\determinantaTrecegReda\determinantaTrecegReda\bin\Debug\determinantaTrecegReda.exe
+C:\Users\Stefano\source\repos\determinantaTrecegReda\determinantaTrecegReda\bin\Debug\determinantaTrecegReda.pdb
+C:\Users\Stefano\source\repos\determinantaTrecegReda\determinantaTrecegReda\obj\Debug\determinantaTrecegReda.csproj.AssemblyReference.cache
+C:\Users\Stefano\source\repos\determinantaTrecegReda\determinantaTrecegReda\obj\Debug\determinantaTrecegReda.Properties.Resources.resources
+C:\Users\Stefano\source\repos\determinantaTrecegReda\determinantaTrecegReda\obj\Debug\determinantaTrecegReda.csproj.GenerateResource.cache
+C:\Users\Stefano\source\repos\determinantaTrecegReda\determinantaTrecegReda\obj\Debug\determinantaTrecegReda.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\determinantaTrecegReda\determinantaTrecegReda\obj\Debug\determinantaTrecegReda.exe
+C:\Users\Stefano\source\repos\determinantaTrecegReda\determinantaTrecegReda\obj\Debug\determinantaTrecegReda.pdb
+C:\Users\Stefano\source\repos\determinantaTrecegReda\determinantaTrecegReda\obj\Debug\determinantaTrecegReda.KalkulatorDeterminanteTrećegReda.resources
